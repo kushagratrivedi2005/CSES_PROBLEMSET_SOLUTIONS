@@ -11,3 +11,5 @@ I'm currently facing challenges with four problems from the "Additional Problems
 - **Removing Digits 2**: [Problem Link](https://cses.fi/problemset/task/2174)
 
 If you have solutions for any of these problems, please contact me at [hellgamerhell@gmail.com](mailto:hellgamerhell@gmail.com).
+
+You can also connect with me on [LinkedIn](https://www.linkedin.com/in/kushagratrivedi/).
